@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagdish Patil</h1>
-<h3 align="center">A passionate Cyber Security Enthusiast from India</h3>
+<h3 align="center">A passionate Cyber Security Enthusiast and Electronics guy by Profession.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagdishpatil2111&label=Profile%20views&color=0e75b6&style=flat" alt="jagdishpatil2111" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OverWatchINT, all-in-one functionality tool for cyber experts.](https://github.com/JagdishPatil2111/OverwatchINT)
 
-- 🌱 I’m currently learning **Python, Bash, and Go**
+- 🌱 I’m currently learning **Python, Bash, and Verilog.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JagdishPatil2111](https://github.com/JagdishPatil2111)
 
